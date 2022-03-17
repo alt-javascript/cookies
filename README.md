@@ -24,14 +24,14 @@ as follows:
    <script>
        cookies.setCookie('somecookie','giveitavalue',365,'Strict');// expires in 365 days, SameSite == Strict (default)
        cookies.getCookie('somecookie');
-       cookies.deleteCookie("somecookie");
+       cookies.deleteCookie('somecookie');
    </script>
 ```
 
 Or import the ES6 module bundle from a module, as follows:
 
 ```javascript
-import { Cookies } from 'https://cdn.jsdelivr.net/npm/@alt-javascript/cookies'
+import { Cookies } from 'https://cdn.jsdelivr.net/npm/@alt-javascript/cookies/dist/alt-javascript-cookies-esm.js'
 
 let cookies = new Cookies();
 

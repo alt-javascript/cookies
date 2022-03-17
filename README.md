@@ -40,8 +40,8 @@ let cookies = new Cookies();
 
 ### Logger
 
-The Cookies class optionally accepts an @alt-javascript/logger, an is configured with the '@alt-javascript/cookies/Cookies'
-qualifier by default when using with @alt-javascript/boot
+The Cookies class optionally accepts an `@alt-javascript/logger`, an is configured with the `@alt-javascript/cookies/Cookies`
+qualifier by default when using with `@alt-javascript/boot`
 
 <a name="license">License</a>
 -----------------------------

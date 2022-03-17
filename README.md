@@ -1,11 +1,11 @@
-A Simple Log Facade for JavaScript
+Simple utility to ease the use of browser cookies.
 ===================================
 
-[![NPM](https://nodei.co/npm/@alt-javascript/logger.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/@alt-javascript/logger/)
+[![NPM](https://nodei.co/npm/@alt-javascript/cookies.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/@alt-javascript/cookies/)
 <br/>
-![Language Badge](https://img.shields.io/github/languages/top/craigparra/alt-logger)
-![Package Badge](https://img.shields.io/npm/v/@alt-javascript/logger) <br/>
-[release notes](https://github.com/craigparra/alt-logger/blob/main/History.md)
+![Language Badge](https://img.shields.io/github/languages/top/alt-javascript/cookies)
+![Package Badge](https://img.shields.io/npm/v/@alt-javascript/cookies) <br/>
+[release notes](https://github.com/alt-javascript/cookies/blob/main/History.md)
 
 <a name="intro">Introduction</a>
 --------------------------------
